@@ -1,7 +1,6 @@
 # PhonePayClone
-PhonePe UI Clone Made for assignment of Google Udacity Scholarship. This is just a clone and not intented for Business Purposes
 
-Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Challenge 2018.
+Our team embarked on an exciting journey to clone the PhonePe app, integrating it with NPCI for a UPI payment system as part of our college project. This collaborative effort allowed us to delve into the intricacies of app development, from crafting an intuitive interface to ensuring secure transactions. Though it's not fully polished, this project showcases our ability to tackle real-world challenges and innovate within the fintech landscape. Together, we've laid a solid foundation for future advancements and gained invaluable experience along the way.
 
 # Screencast Gif
 
